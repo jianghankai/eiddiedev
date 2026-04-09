@@ -1,7 +1,4 @@
-## Hi there 👋
-
-# Eiddie
-
+## Hi there 👋 I'm Eiddie
 I build things with a point of view.
 
 Not just functional — memorable.
