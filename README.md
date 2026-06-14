@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm 姜
-I build things with a point of view.
+我喜欢并擅长探索新的思考方式来解决问题
 
 Not just functional — memorable.
 I think about why something deserves to exist before I write a single line.
